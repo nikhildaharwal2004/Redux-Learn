@@ -9,6 +9,7 @@ export default function App() {
     
      <div>
       <h1> Hello Redux </h1>
+      <h1> Hello ReduxLearn </h1>
       <UserInfo />
       <Button />
      </div>
